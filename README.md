@@ -1,4 +1,4 @@
-# EvenFibonacciNumber
+# Even Fibonacci Number
 
 This is problem 2 of the Project Euler challenge series. The problem states:
 
